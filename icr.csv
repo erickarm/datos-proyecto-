@@ -1,0 +1,492 @@
+cod_catalo,codigo_dta,provincia,canton,distrito,cod_provin,cod_canton,area,region,ICR_2011,Terr_rural
+"160105",60110,Puntarenas,Puntarenas,Isla del Coco,6,601,23.520000000000000,Pacífico Central,0.000000000000000,Territorio Insular
+"160105",60104,Puntarenas,Puntarenas,Lepanto,6,601,424.310000000000002,Pacífico Central,4.666666507720000,Paquera Cóbano Lepanto Chira
+"160105",11605,San José,Turrubares,Carara,1,116,220.550000000000011,Central,4.666666507720000,Puriscal Turrubares Mora Santa Ana
+"160105",30804,Cartago,El Guarco,Patio de Agua,3,308,10.940000000000000,Central,3.333333253860000,Cartago Oreamuno El Guarco La Unión
+"160105",10603,San José,Aserrí,Vuelta de Jorco,1,106,22.050000000000001,Central,3.000000000000000,Acosta Desamparados Aserrí
+"160105",10604,San José,Aserrí,San Gabriel,1,106,11.730000000000000,Central,2.666666746140000,Acosta Desamparados Aserrí
+"160105",30107,Cartago,Cartago,Corralillo,3,301,32.689999999999998,Central,3.000000000000000,Cartago Oreamuno El Guarco La Unión
+"160105",11202,San José,Acosta,Guaitil,1,112,43.990000000000002,Central,3.666666746140000,Acosta Desamparados Aserrí
+"160105",11201,San José,Acosta,San Ignacio,1,112,22.739999999999998,Central,3.000000000000000,Acosta Desamparados Aserrí
+"160105",10406,San José,Puriscal,Candelarita,1,104,24.940000000000001,Central,4.000000000000000,Puriscal Turrubares Mora Santa Ana
+"160105",10309,San José,Desamparados,Rosario,1,103,14.850000000000000,Central,3.000000000000000,Acosta Desamparados Aserrí
+"160105",30803,Cartago,El Guarco,Tobosi,3,308,20.059999999999999,Central,2.666666746140000,Cartago Oreamuno El Guarco La Unión
+"160105",50903,Guanacaste,Nandayure,Zapotal,5,509,105.079999999999998,Chorotega,4.333333492280001,Nandayure Hojancha Nicoya
+"160105",10602,San José,Aserrí,Tarbaca,1,106,15.340000000000000,Central,2.666666746140000,Acosta Desamparados Aserrí
+"160105",10402,San José,Puriscal,Mercedes Sur,1,104,183.550000000000011,Central,4.333333492280001,Puriscal Turrubares Mora Santa Ana
+"160105",10405,San José,Puriscal,San Rafael,1,104,15.500000000000000,Central,3.000000000000000,Puriscal Turrubares Mora Santa Ana
+"160105",30801,Cartago,El Guarco,El Tejar,3,308,6.120000000000000,Central,1.000000000000000,Cartago Oreamuno El Guarco La Unión
+"160105",30105,Cartago,Cartago,Aguacaliente o San Francisco,3,301,99.260000000000005,Central,3.000000000000000,Cartago Oreamuno El Guarco La Unión
+"160105",30109,Cartago,Cartago,Dulce Nombre,3,301,33.640000000000001,Central,2.666666746140000,Cartago Oreamuno El Guarco La Unión
+"160105",11203,San José,Acosta,Palmichal,1,112,34.140000000000001,Central,3.666666746140000,Acosta Desamparados Aserrí
+"160105",30205,Cartago,Paraíso,Llanos de Santa Lucía,3,302,6.540000000000000,Central,1.000000000000000,Paraíso Alvarado
+"160105",30201,Cartago,Paraíso,Paraíso,3,302,18.289999999999999,Central,2.000000000000000,Paraíso Alvarado
+"160105",61102,Puntarenas,Garabito,Tárcoles,6,611,93.640000000000001,Pacífico Central,4.666666507720000,Quepos Garabito Parrita
+"160105",51102,Guanacaste,Hojancha,Monte Romo,5,511,75.269999999999996,Chorotega,4.000000000000000,Nandayure Hojancha Nicoya
+"160105",60601,Puntarenas,Quepos,Quepos,6,606,236.050000000000011,Pacífico Central,3.333333253860000,Quepos Garabito Parrita
+"160105",30802,Cartago,El Guarco,San Isidro,3,308,134.879999999999995,Central,4.666666507720000,Cartago Oreamuno El Guarco La Unión
+"160105",61002,Puntarenas,Corredores,La Cuesta,6,610,37.079999999999998,Brunca,3.333333253860000,Osa Corredores Golfito
+"160105",61003,Puntarenas,Corredores,Canoas,6,610,122.019999999999996,Brunca,3.333333253860000,Osa Corredores Golfito
+"160105",61001,Puntarenas,Corredores,Corredor,6,610,275.670000000000016,Brunca,3.333333253860000,Osa Corredores Golfito
+"160105",60701,Puntarenas,Golfito,Golfito,6,607,355.899999999999977,Brunca,5.000000000000000,Osa Corredores Golfito
+"160105",60803,Puntarenas,Coto Brus,Aguabuena,6,608,63.890000000000001,Brunca,3.000000000000000,Buenos Aires Coto Brus
+"160105",60703,Puntarenas,Golfito,Guaycará,6,607,323.100000000000023,Brunca,3.666666746140000,Osa Corredores Golfito
+"160105",60505,Puntarenas,Osa,Piedras Blancas,6,605,262.579999999999984,Brunca,4.333333492280001,Osa Corredores Golfito
+"160105",60801,Puntarenas,Coto Brus,San Vito,6,608,74.590000000000003,Brunca,3.333333253860000,Buenos Aires Coto Brus
+"160105",50901,Guanacaste,Nandayure,Carmona,5,509,31.660000000000000,Chorotega,4.333333492280001,Nandayure Hojancha Nicoya
+"160105",60804,Puntarenas,Coto Brus,Limoncito,6,608,123.640000000000001,Brunca,3.666666746140000,Buenos Aires Coto Brus
+"160105",60802,Puntarenas,Coto Brus,Sabalito,6,608,186.860000000000014,Brunca,5.000000000000000,Buenos Aires Coto Brus
+"160105",60307,Puntarenas,Buenos Aires,Chánguena,6,603,273.040000000000020,Brunca,4.333333492280001,Buenos Aires Coto Brus
+"160105",60502,Puntarenas,Osa,Palmar,6,605,250.800000000000011,Brunca,3.333333253860000,Osa Corredores Golfito
+"160105",60306,Puntarenas,Buenos Aires,Colinas,6,603,128.800000000000011,Brunca,4.000000000000000,Buenos Aires Coto Brus
+"160105",60304,Puntarenas,Buenos Aires,Boruca,6,603,125.790000000000006,Brunca,4.333333492280001,Buenos Aires Coto Brus
+"160105",60806,Puntarenas,Coto Brus,Gutiérrez Braun,6,608,238.189999999999998,Brunca,0.000000000000000,Buenos Aires Coto Brus
+"160105",60805,Puntarenas,Coto Brus,Pittier,6,608,257.050000000000011,Brunca,4.333333492280001,Buenos Aires Coto Brus
+"160105",60305,Puntarenas,Buenos Aires,Pilas,6,603,114.340000000000003,Brunca,4.000000000000000,Buenos Aires Coto Brus
+"160105",60308,Puntarenas,Buenos Aires,Biolley,6,603,208.270000000000010,Brunca,4.666666507720000,Buenos Aires Coto Brus
+"160105",50206,Guanacaste,Nicoya,Nosara,5,502,133.650000000000006,Chorotega,4.666666507720000,Nandayure Hojancha Nicoya
+"160105",11912,San José,Pérez Zeledón,La  Amistad,1,119,76.290000000000006,Brunca,0.000000000000000,Pérez Zeledón
+"160105",60309,Puntarenas,Buenos Aires,Brunka,6,603,163.770000000000010,Brunca,4.333333492280001,Buenos Aires Coto Brus
+"160105",60302,Puntarenas,Buenos Aires,Volcán,6,603,187.409999999999997,Brunca,4.333333492280001,Buenos Aires Coto Brus
+"160105",60303,Puntarenas,Buenos Aires,Potrero Grande,6,603,626.700000000000045,Brunca,5.000000000000000,Buenos Aires Coto Brus
+"160105",11908,San José,Pérez Zeledón,Cajón,1,119,118.629999999999995,Brunca,4.000000000000000,Pérez Zeledón
+"160105",11905,San José,Pérez Zeledón,San Pedro,1,119,206.120000000000005,Brunca,4.000000000000000,Pérez Zeledón
+"160105",70402,Limón,Talamanca,Sixaola,7,704,169.009999999999991,Huetar Caribe,4.333333492280001,Talamanca Valle de la Estrella
+"160105",70401,Limón,Talamanca,Bratsi,7,704,180.849999999999994,Huetar Caribe,5.333333492280000,Talamanca Valle de la Estrella
+"160105",70404,Limón,Talamanca,Telire,7,704,2208.300000000000182,Huetar Caribe,5.333333492280000,Talamanca Valle de la Estrella
+"160105",70403,Limón,Talamanca,Cahuita,7,704,234.069999999999993,Huetar Caribe,4.666666507720000,Talamanca Valle de la Estrella
+"160105",50207,Guanacaste,Nicoya,Belén de Nosarita,5,502,123.069999999999993,Chorotega,4.000000000000000,Nandayure Hojancha Nicoya
+"160105",60301,Puntarenas,Buenos Aires,Buenos Aires,6,603,554.830000000000041,Brunca,4.333333492280001,Buenos Aires Coto Brus
+"160105",10303,San José,Desamparados,San Juan de Dios,1,103,2.850000000000000,Central,1.000000000000000,GAM Urbano
+"160105",30103,Cartago,Cartago,Carmen,3,301,4.330000000000000,Central,1.333333373070000,Cartago Oreamuno El Guarco La Unión
+"160105",30308,Cartago,La Unión,Río Azul,3,303,4.850000000000000,Central,1.333333373070000,GAM Urbano
+"160105",10310,San José,Desamparados,Damas,1,103,2.650000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10312,San José,Desamparados,Gravilias,1,103,2.940000000000000,Central,1.000000000000000,GAM Urbano
+"160105",11002,San José,Alajuelita,San Josecito,1,110,2.370000000000000,Central,1.333333373070000,GAM Urbano
+"160105",11004,San José,Alajuelita,Concepción,1,110,2.430000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10305,San José,Desamparados,San Antonio,1,103,2.070000000000000,Central,1.333333373070000,GAM Urbano
+"160105",10311,San José,Desamparados,San Rafael Abajo,1,103,2.020000000000000,Central,1.000000000000000,GAM Urbano
+"160105",51104,Guanacaste,Hojancha,Huacas,5,511,31.739999999999998,Chorotega,3.666666746140000,Nandayure Hojancha Nicoya
+"160105",30302,Cartago,La Unión,San Diego,3,303,8.080000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10301,San José,Desamparados,Desamparados,1,103,3.320000000000000,Central,1.000000000000000,GAM Urbano
+"160105",11804,San José,Curridabat,Tirrases,1,118,1.880000000000000,Central,1.000000000000000,GAM Urbano
+"160105",11001,San José,Alajuelita,Alajuelita,1,110,1.270000000000000,Central,1.000000000000000,GAM Urbano
+"160105",30704,Cartago,Oreamuno,Cipreses,3,307,9.369999999999999,Central,2.666666746140000,Cartago Oreamuno El Guarco La Unión
+"160105",30301,Cartago,La Unión,Tres Ríos,3,303,2.280000000000000,Central,1.333333373070000,GAM Urbano
+"160105",10106,San José,San José,San Francisco de Dos Ríos,1,101,2.640000000000000,Central,1.333333373070000,GAM Urbano
+"160105",10704,San José,Mora,Piedras Negras,1,107,14.880000000000001,Central,3.666666746140000,Puriscal Turrubares Mora Santa Ana
+"160105",10111,San José,San José,San Sebastián,1,101,3.970000000000000,Central,1.333333373070000,GAM Urbano
+"160105",30602,Cartago,Alvarado,Cervantes,3,306,15.180000000000000,Central,3.000000000000000,Paraíso Alvarado
+"160105",50904,Guanacaste,Nandayure,San Pablo,5,509,78.079999999999998,Chorotega,4.333333492280001,Nandayure Hojancha Nicoya
+"160105",30304,Cartago,La Unión,San Rafael,3,303,9.510000000000000,Central,1.000000000000000,GAM Urbano
+"160105",30303,Cartago,La Unión,San Juan,3,303,3.950000000000000,Central,1.000000000000000,GAM Urbano
+"160105",11601,San José,Turrubares,San Pablo,1,116,26.410000000000000,Central,3.666666746140000,Puriscal Turrubares Mora Santa Ana
+"160105",10201,San José,Escazú,Escazú,1,102,4.530000000000000,Central,1.666666626930000,GAM Urbano
+"160105",10105,San José,San José,Zapote,1,101,2.860000000000000,Central,1.333333373070000,GAM Urbano
+"160105",11801,San José,Curridabat,Curridabat,1,118,6.170000000000000,Central,1.000000000000000,GAM Urbano
+"160105",11803,San José,Curridabat,Sánchez,1,118,4.510000000000000,Central,1.333333373070000,GAM Urbano
+"160105",11005,San José,Alajuelita,San Felipe,1,110,5.130000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10110,San José,San José,Hatillo,1,101,4.370000000000000,Central,1.333333373070000,GAM Urbano
+"160105",20901,Alajuela,Orotina,Orotina,2,209,21.559999999999999,Pacífico Central,3.000000000000000,Orotina San Mateo Esparza
+"160105",50902,Guanacaste,Nandayure,Santa Rita,5,509,51.380000000000003,Chorotega,4.333333492280001,Nandayure Hojancha Nicoya
+"160105",10104,San José,San José,Catedral,1,101,2.370000000000000,Central,1.333333373070000,GAM Urbano
+"160105",10701,San José,Mora,Colón,1,107,39.890000000000001,Central,3.000000000000000,Puriscal Turrubares Mora Santa Ana
+"160105",20902,Alajuela,Orotina,El Mastate,2,209,9.500000000000000,Pacífico Central,3.000000000000000,Orotina San Mateo Esparza
+"160105",10103,San José,San José,Hospital,1,101,3.320000000000000,Central,1.333333373070000,GAM Urbano
+"160105",30305,Cartago,La Unión,Concepción,3,303,3.790000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10705,San José,Mora,Picagres,1,107,27.160000000000000,Central,3.666666746140000,Puriscal Turrubares Mora Santa Ana
+"160105",11802,San José,Curridabat,Granadilla,1,118,3.510000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10101,San José,San José,Carmen,1,101,1.490000000000000,Central,1.666666626930000,GAM Urbano
+"160105",30307,Cartago,La Unión,San Ramón,3,303,3.470000000000000,Central,1.333333373070000,GAM Urbano
+"160105",10901,San José,Santa Ana,Santa Ana,1,109,5.440000000000000,Central,1.333333373070000,GAM Urbano
+"160105",51101,Guanacaste,Hojancha,Hojancha,5,511,70.400000000000006,Chorotega,3.666666746140000,Nandayure Hojancha Nicoya
+"160105",10905,San José,Santa Ana,Piedades,1,109,12.070000000000000,Central,1.333333373070000,GAM Urbano
+"160105",11501,San José,Montes de Oca,San Pedro,1,115,4.740000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10802,San José,Goicoechea,San Francisco,1,108,0.580000000000000,Central,1.333333373070000,GAM Urbano
+"160105",10108,San José,San José,Mata Redonda,1,101,3.660000000000000,Central,1.666666626930000,GAM Urbano
+"160105",10102,San José,San José,Merced,1,101,2.200000000000000,Central,1.333333373070000,GAM Urbano
+"160105",20903,Alajuela,Orotina,Hacienda Vieja,2,209,16.910000000000000,Pacífico Central,3.000000000000000,Orotina San Mateo Esparza
+"160105",10904,San José,Santa Ana,Uruca,1,109,7.030000000000000,Central,1.666666626930000,GAM Urbano
+"160105",10906,San José,Santa Ana,Brasil,1,109,3.240000000000000,Central,1.666666626930000,GAM Urbano
+"160105",30306,Cartago,La Unión,Dulce Nombre,3,303,8.260000000000000,Central,2.333333253860000,GAM Urbano
+"160105",11503,San José,Montes de Oca,Mercedes,1,115,1.430000000000000,Central,1.333333373070000,GAM Urbano
+"160105",60103,Puntarenas,Puntarenas,Chomes,6,601,118.950000000000003,Pacífico Central,4.333333492280001,Puntarenas Montes de Oro
+"160105",60113,Puntarenas,Puntarenas,Chira,6,601,42.020000000000003,Pacífico Central,4.333333492280001,Paquera Cóbano Lepanto Chira
+"160105",11302,San José,Tibás,Cinco Esquinas,1,113,0.650000000000000,Central,1.333333373070000,GAM Urbano
+"160105",11502,San José,Montes de Oca,Sabanilla,1,115,1.790000000000000,Central,1.333333373070000,GAM Urbano
+"160105",10803,San José,Goicoechea,Calle Blancos,1,108,2.360000000000000,Central,1.000000000000000,GAM Urbano
+"160105",11504,San José,Montes de Oca,San Rafael,1,115,7.820000000000000,Central,1.333333373070000,Moravia Goicochea Vázquez de Coronado Montes de Oca
+"160105",10801,San José,Goicoechea,Guadalupe,1,108,2.390000000000000,Central,1.000000000000000,GAM Urbano
+"160105",30509,Cartago,Turrialba,Santa Rosa,3,305,18.620000000000001,Central,3.000000000000000,Turrialba Jiménez
+"160105",20404,Alajuela,San Mateo,Labrador,2,204,21.260000000000002,Pacífico Central,0.000000000000000,Orotina San Mateo Esparza
+"160105",11303,San José,Tibás,Anselmo Llorente,1,113,1.370000000000000,Central,1.333333373070000,GAM Urbano
+"160105",11304,San José,Tibás,León XIII,1,113,0.720000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10109,San José,San José,Pavas,1,101,9.350000000000000,Central,1.333333373070000,GAM Urbano
+"160105",50306,Guanacaste,Santa Cruz,Cuajiniquil,5,503,218.000000000000000,Chorotega,4.666666507720000,Santa Cruz Carrillo
+"160105",10804,San José,Goicoechea,Mata de Plátano,1,108,7.790000000000000,Central,1.000000000000000,GAM Urbano
+"160105",11305,San José,Tibás,Colima,1,113,2.010000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10807,San José,Goicoechea,Purral,1,108,3.000000000000000,Central,1.000000000000000,GAM Urbano
+"160105",20508,Alajuela,Atenas,Escobal,2,205,26.280000000000001,Central,3.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20111,Alajuela,Alajuela,Turrucares,2,201,35.890000000000001,Central,2.333333253860000,Alajuela Poás Grecia Valverde Vega
+"160105",10805,San José,Goicoechea,Ipis,1,108,2.500000000000000,Central,1.000000000000000,GAM Urbano
+"160105",30110,Cartago,Cartago,Llano Grande,3,301,30.350000000000001,Central,2.666666746140000,Cartago Oreamuno El Guarco La Unión
+"160105",30108,Cartago,Cartago,Tierra Blanca,3,301,12.800000000000001,Central,2.666666746140000,Cartago Oreamuno El Guarco La Unión
+"160105",10107,San José,San José,Uruca,1,101,8.390000000000002,Central,1.333333373070000,GAM Urbano
+"160105",30703,Cartago,Oreamuno,Potrero Cerrado,3,307,18.109999999999999,Central,3.333333253860000,Cartago Oreamuno El Guarco La Unión
+"160105",60106,Puntarenas,Puntarenas,Manzanillo,6,601,59.859999999999999,Pacífico Central,4.333333492280001,Puntarenas Montes de Oro
+"160105",10203,San José,Escazú,San Rafael,1,102,13.039999999999999,Central,1.000000000000000,GAM Urbano
+"160105",11301,San José,Tibás,San Juan,1,113,3.510000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10903,San José,Santa Ana,Pozos,1,109,13.350000000000000,Central,1.333333373070000,GAM Urbano
+"160105",10806,San José,Goicoechea,Rancho Redondo,1,108,13.080000000000000,Central,2.333333253860000,Moravia Goicochea Vázquez de Coronado Montes de Oca
+"160105",11401,San José,Moravia,San Vicente,1,114,5.400000000000000,Central,1.000000000000000,GAM Urbano
+"160105",30601,Cartago,Alvarado,Pacayas,3,306,29.620000000000001,Central,3.666666746140000,Paraíso Alvarado
+"160105",11101,San José,Vazquez de Coronado,San Isidro,1,111,5.160000000000000,Central,1.000000000000000,Moravia Goicochea Vázquez de Coronado Montes de Oca
+"160105",40301,Heredia,Santo Domingo,Santo Domingo,4,403,0.780000000000000,Central,1.333333373070000,GAM Urbano
+"160105",11104,San José,Vazquez de Coronado,Patalillo,1,111,1.920000000000000,Central,1.000000000000000,GAM Urbano
+"160105",40306,Heredia,Santo Domingo,Santa Rosa,4,403,4.270000000000000,Central,1.333333373070000,GAM Urbano
+"160105",50202,Guanacaste,Nicoya,Mansión,5,502,212.150000000000006,Chorotega,4.000000000000000,Nandayure Hojancha Nicoya
+"160105",20403,Alajuela,San Mateo,Jesús María,2,204,18.660000000000000,Pacífico Central,3.666666746140000,Orotina San Mateo Esparza
+"160105",20505,Alajuela,Atenas,Concepción,2,205,21.910000000000000,Central,3.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",40701,Heredia,Belén,San Antonio,4,407,3.560000000000000,Central,1.333333373070000,GAM Urbano
+"160105",40305,Heredia,Santo Domingo,Santo Tomás,4,403,3.540000000000000,Central,1.333333373070000,GAM Urbano
+"160105",40104,Heredia,Heredia,Ulloa,4,401,11.380000000000001,Central,1.000000000000000,GAM Urbano
+"160105",20108,Alajuela,Alajuela,San Rafael,2,201,19.329999999999998,Central,1.333333373070000,GAM Urbano
+"160105",11102,San José,Vazquez de Coronado,San Rafael,1,111,16.910000000000000,Central,2.333333253860000,Moravia Goicochea Vázquez de Coronado Montes de Oca
+"160105",20502,Alajuela,Atenas,Jesús,2,205,18.109999999999999,Central,3.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",40703,Heredia,Belén,La Asunción,4,407,4.570000000000000,Central,1.333333373070000,GAM Urbano
+"160105",11403,San José,Moravia,La Trinidad,1,114,4.900000000000000,Central,1.000000000000000,GAM Urbano
+"160105",50204,Guanacaste,Nicoya,Quebrada Honda,5,502,109.170000000000002,Chorotega,3.666666746140000,Nandayure Hojancha Nicoya
+"160105",40902,Heredia,San Pablo,Rincón de Sabanilla,4,409,2.410000000000000,Central,1.333333373070000,GAM Urbano
+"160105",20202,Alajuela,San Ramón,Santiago,2,202,61.060000000000002,Central,3.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",60202,Puntarenas,Esparza,San Juan Grande,6,602,18.710000000000001,Pacífico Central,3.333333253860000,Orotina San Mateo Esparza
+"160105",60115,Puntarenas,Puntarenas,El Roble,6,601,7.930000000000000,Pacífico Central,1.666666626930000,Puntarenas Montes de Oro
+"160105",60112,Puntarenas,Puntarenas,Chacarita,6,601,4.920000000000000,Pacífico Central,1.666666626930000,Puntarenas Montes de Oro
+"160105",20501,Alajuela,Atenas,Atenas,2,205,9.760000000000000,Central,2.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20402,Alajuela,San Mateo,Desmonte,2,204,20.219999999999999,Pacífico Central,3.666666746140000,Orotina San Mateo Esparza
+"160105",40302,Heredia,Santo Domingo,San Vicente,4,403,2.880000000000000,Central,1.333333373070000,GAM Urbano
+"160105",40303,Heredia,Santo Domingo,San Miguel,4,403,5.900000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",20105,Alajuela,Alajuela,Guácima,2,201,28.070000000000000,Central,1.333333373070000,GAM Urbano
+"160105",50704,Guanacaste,Abangares,Colorado,5,507,197.840000000000003,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",20503,Alajuela,Atenas,Mercedes,2,205,7.840000000000000,Central,3.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",40103,Heredia,Heredia,San Francisco,4,401,6.560000000000000,Central,1.000000000000000,GAM Urbano
+"160105",40803,Heredia,Flores,Llorente,4,408,1.860000000000000,Central,1.333333373070000,GAM Urbano
+"160105",40702,Heredia,Belén,La Ribera,4,407,4.260000000000000,Central,1.666666626930000,GAM Urbano
+"160105",40307,Heredia,Santo Domingo,Tures,4,403,3.880000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",40101,Heredia,Heredia,Heredia,4,401,2.860000000000000,Central,1.000000000000000,GAM Urbano
+"160105",20104,Alajuela,Alajuela,San Antonio,2,201,8.760000000000000,Central,1.333333373070000,GAM Urbano
+"160105",40801,Heredia,Flores,San Joaquín,4,408,2.750000000000000,Central,1.333333373070000,GAM Urbano
+"160105",40901,Heredia,San Pablo,San Pablo,4,409,5.930000000000000,Central,1.000000000000000,GAM Urbano
+"160105",40503,Heredia,San Rafael,Santiago,4,405,1.570000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",50303,Guanacaste,Santa Cruz,Veintisiete de Abril,5,503,303.000000000000000,Chorotega,4.666666507720000,Santa Cruz Carrillo
+"160105",20504,Alajuela,Atenas,San Isidro,2,205,14.390000000000001,Central,3.333333253860000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20109,Alajuela,Alajuela,Río Segundo,2,201,5.460000000000000,Central,1.666666626930000,GAM Urbano
+"160105",40304,Heredia,Santo Domingo,Paracito,4,403,1.270000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",20401,Alajuela,San Mateo,San Mateo,2,204,64.890000000000001,Pacífico Central,3.666666746140000,Orotina San Mateo Esparza
+"160105",20113,Alajuela,Alajuela,Garita,2,201,33.899999999999999,Central,1.666666626930000,Alajuela Poás Grecia Valverde Vega
+"160105",40308,Heredia,Santo Domingo,Pará,4,403,2.870000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",40102,Heredia,Heredia,Mercedes,4,401,4.150000000000001,Central,1.000000000000000,GAM Urbano
+"160105",30603,Cartago,Alvarado,Capellades,3,306,34.390000000000001,Central,3.333333253860000,Paraíso Alvarado
+"160105",60201,Puntarenas,Esparza,Espíritu Santo,6,602,18.910000000000000,Pacífico Central,3.000000000000000,Orotina San Mateo Esparza
+"160105",40502,Heredia,San Rafael,San Josecito,4,405,1.350000000000000,Central,1.000000000000000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",50605,Guanacaste,Cañas,Porozal,5,506,110.909999999999997,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",40802,Heredia,Flores,Barrantes,4,408,2.140000000000000,Central,1.333333373070000,GAM Urbano
+"160105",40204,Heredia,Barva,San Roque,4,402,1.280000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",40501,Heredia,San Rafael,San Rafael,4,405,1.330000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",40604,Heredia,San Isidro,San Francisco,4,406,4.560000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",40201,Heredia,Barva,Barva,4,402,0.840000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",40601,Heredia,San Isidro,San Isidro,4,406,2.670000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",60204,Puntarenas,Esparza,San Rafael,6,602,34.320000000000000,Pacífico Central,3.666666746140000,Orotina San Mateo Esparza
+"160105",20102,Alajuela,Alajuela,San José,2,201,14.869999999999999,Central,1.333333373070000,GAM Urbano
+"160105",40403,Heredia,Santa Bárbara,San Juan,4,404,4.480000000000002,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",20704,Alajuela,Palmares,Santiago,2,207,7.960000000000000,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",50307,Guanacaste,Santa Cruz,Diriá,5,503,66.219999999999999,Chorotega,3.666666746140000,Santa Cruz Carrillo
+"160105",20507,Alajuela,Atenas,Santa Eulalia,2,205,14.560000000000000,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20506,Alajuela,Atenas,San José,2,205,13.470000000000001,Central,3.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20705,Alajuela,Palmares,Candelaria,2,207,4.720000000000000,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",40205,Heredia,Barva,Santa Lucía,4,402,2.860000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",60108,Puntarenas,Puntarenas,Barranca,6,601,36.210000000000001,Pacífico Central,1.666666626930000,Puntarenas Montes de Oro
+"160105",40402,Heredia,Santa Bárbara,San Pedro,4,404,2.560000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",40401,Heredia,Santa Bárbara,Santa Bárbara,4,404,1.280000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",60203,Puntarenas,Esparza,Macacona,6,602,34.130000000000003,Pacífico Central,3.000000000000000,Orotina San Mateo Esparza
+"160105",20101,Alajuela,Alajuela,Alajuela,2,201,10.609999999999999,Central,1.333333373070000,GAM Urbano
+"160105",20702,Alajuela,Palmares,Zaragoza,2,207,8.430000000000000,Central,1.666666626930000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",50203,Guanacaste,Nicoya,San Antonio,5,502,339.500000000000000,Chorotega,4.333333492280001,Nandayure Hojancha Nicoya
+"160105",20112,Alajuela,Alajuela,Tambor,2,201,13.890000000000001,Central,1.666666626930000,Alajuela Poás Grecia Valverde Vega
+"160105",20804,Alajuela,Poás,Carrillos,2,208,10.130000000000001,Central,1.333333373070000,Alajuela Poás Grecia Valverde Vega
+"160105",40602,Heredia,San Isidro,San José,4,406,11.369999999999999,Central,1.666666626930000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",20110,Alajuela,Alajuela,Desamparados,2,201,12.949999999999999,Central,1.000000000000000,GAM Urbano
+"160105",20701,Alajuela,Palmares,Palmares,2,207,1.190000000000000,Central,1.666666626930000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20307,Alajuela,Grecia,Puente de Piedra,2,203,23.030000000000001,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",40603,Heredia,San Isidro,Concepción,4,406,8.070000000000000,Central,2.333333253860000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",11402,San José,Moravia,San Jerónimo,1,114,18.530000000000001,Central,2.333333253860000,Moravia Goicochea Vázquez de Coronado Montes de Oca
+"160105",40202,Heredia,Barva,San Pedro,4,402,7.170000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",20707,Alajuela,Palmares,La Granja,2,207,4.390000000000000,Central,1.666666626930000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",50703,Guanacaste,Abangares,San Juan,5,507,107.469999999999999,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",50701,Guanacaste,Abangares,Las Juntas,5,507,228.710000000000008,Chorotega,4.666666507720000,Abangares Cañas Bagaces Tilarán
+"160105",20607,Alajuela,Naranjo,El Rosario,2,206,17.149999999999999,Central,2.333333253860000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20706,Alajuela,Palmares,Esquipulas,2,207,5.400000000000000,Central,1.666666626930000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20301,Alajuela,Grecia,Grecia,2,203,7.570000000000000,Central,1.333333373070000,Alajuela Poás Grecia Valverde Vega
+"160105",40203,Heredia,Barva,San Pablo,4,402,6.830000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",40404,Heredia,Santa Bárbara,Jesús,4,404,11.150000000000000,Central,2.333333253860000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",40505,Heredia,San Rafael,Concepción,4,405,22.809999999999999,Central,2.333333253860000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",30504,Cartago,Turrialba,Santa Cruz,3,305,129.569999999999993,Central,4.000000000000000,Turrialba Jiménez
+"160105",20206,Alajuela,San Ramón,San Rafael,2,202,30.690000000000001,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20703,Alajuela,Palmares,Buenos Aires,2,207,6.840000000000000,Central,1.666666626930000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20602,Alajuela,Naranjo,San Miguel,2,206,15.590000000000000,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",50201,Guanacaste,Nicoya,Nicoya,5,502,310.660000000000025,Chorotega,3.333333253860000,Nandayure Hojancha Nicoya
+"160105",60403,Puntarenas,Montes de Oro,San Isidro,6,604,57.710000000000001,Pacífico Central,3.333333253860000,Puntarenas Montes de Oro
+"160105",20201,Alajuela,San Ramón,San Ramón,2,202,1.280000000000000,Central,1.666666626930000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",40406,Heredia,Santa Bárbara,Purabá,4,404,6.140000000000000,Central,1.333333373070000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",21202,Alajuela,Sarchí,Sarchí Sur,2,212,6.350000000000000,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",20207,Alajuela,San Ramón,San Isidro,2,202,8.690000000000000,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20209,Alajuela,San Ramón,Alfaro,2,202,17.840000000000000,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20608,Alajuela,Naranjo,Palmitos,2,206,8.230000000000000,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20801,Alajuela,Poás,San Pedro,2,208,13.580000000000000,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",20203,Alajuela,San Ramón,San Juan,2,202,5.120000000000000,Central,1.666666626930000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",40504,Heredia,San Rafael,Ángeles,4,405,21.239999999999998,Central,2.333333253860000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",50309,Guanacaste,Santa Cruz,Tamarindo,5,503,126.090000000000003,Chorotega,4.333333492280001,Santa Cruz Carrillo
+"160105",20103,Alajuela,Alajuela,Carrizal,2,201,16.219999999999999,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",60205,Puntarenas,Esparza,San Jerónimo,6,602,49.140000000000001,Pacífico Central,4.000000000000000,Puntarenas Montes de Oro
+"160105",20606,Alajuela,Naranjo,San Juan,2,206,7.150000000000000,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20601,Alajuela,Naranjo,Naranjo,2,206,16.850000000000001,Central,2.333333253860000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20803,Alajuela,Poás,San Rafael,2,208,14.180000000000000,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",40206,Heredia,Barva,San José de la Montaña,4,402,37.039999999999999,Central,2.666666746140000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",20305,Alajuela,Grecia,Tacares,2,203,24.899999999999999,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",11105,San José,Vazquez de Coronado,Cascajal,1,111,132.020000000000010,Central,3.000000000000000,Moravia Goicochea Vázquez de Coronado Montes de Oca
+"160105",30705,Cartago,Oreamuno,Santa Rosa,3,307,150.270000000000010,Central,3.666666746140000,Cartago Oreamuno El Guarco La Unión
+"160105",20211,Alajuela,San Ramón,Concepción,2,202,9.510000000000000,Central,3.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",50302,Guanacaste,Santa Cruz,Bolsón,5,503,32.280000000000001,Chorotega,4.000000000000000,Santa Cruz Carrillo
+"160105",21205,Alajuela,Sarchí,Rodríguez,2,212,7.280000000000000,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",20205,Alajuela,San Ramón,Piedades Sur,2,202,115.629999999999995,Central,3.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",40405,Heredia,Santa Bárbara,Santo Domingo,4,404,26.489999999999998,Central,2.666666746140000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",20106,Alajuela,Alajuela,San Isidro,2,201,34.689999999999998,Central,2.333333253860000,Alajuela Poás Grecia Valverde Vega
+"160105",20605,Alajuela,Naranjo,San Jerónimo,2,206,9.050000000000001,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20603,Alajuela,Naranjo,San José,2,206,20.899999999999999,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",60401,Puntarenas,Montes de Oro,Miramar,6,604,110.959999999999994,Pacífico Central,3.666666746140000,Puntarenas Montes de Oro
+"160105",20304,Alajuela,Grecia,San Roque,2,203,26.949999999999999,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",20302,Alajuela,Grecia,San Isidro,2,203,16.829999999999998,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",21201,Alajuela,Sarchí,Sarchí Norte,2,212,21.140000000000001,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",50603,Guanacaste,Cañas,San Miguel,5,506,120.950000000000003,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",20204,Alajuela,San Ramón,Piedades Norte,2,202,47.680000000000000,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20308,Alajuela,Grecia,Bolivar,2,203,30.780000000000001,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",21204,Alajuela,Sarchí,San Pedro,2,212,10.869999999999999,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",20210,Alajuela,San Ramón,Volio,2,202,20.670000000000002,Central,3.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",11103,San José,Vazquez de Coronado,Dulce Nombre de Jesús,1,111,67.920000000000002,Central,3.000000000000000,Moravia Goicochea Vázquez de Coronado Montes de Oca
+"160105",20604,Alajuela,Naranjo,Cirrí Sur,2,206,32.109999999999999,Central,2.666666746140000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",20107,Alajuela,Alajuela,Sabanilla,2,201,43.180000000000000,Central,3.333333253860000,Alajuela Poás Grecia Valverde Vega
+"160105",20802,Alajuela,Poás,San Juan,2,208,16.379999999999999,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",20805,Alajuela,Poás,Sabana Redonda,2,208,20.210000000000001,Central,4.000000000000000,Alajuela Poás Grecia Valverde Vega
+"160105",20212,Alajuela,San Ramón,Zapotal,2,202,67.129999999999995,Central,4.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",50604,Guanacaste,Cañas,Bebedero,5,506,58.060000000000002,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",21101,Alajuela,Zarcero,Zarcero,2,211,11.830000000000000,Central,2.333333253860000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",21104,Alajuela,Zarcero,Guadalupe,2,211,22.579999999999998,Central,4.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",21103,Alajuela,Zarcero,Tapesco,2,211,6.390000000000000,Central,3.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",21105,Alajuela,Zarcero,Palmira,2,211,30.670000000000002,Central,4.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",21102,Alajuela,Zarcero,Laguna,2,211,23.280000000000001,Central,3.333333253860000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",21107,Alajuela,Zarcero,Brisas,2,211,17.850000000000001,Central,4.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",21106,Alajuela,Zarcero,Zapote,2,211,44.759999999999998,Central,4.000000000000000,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",60116,Puntarenas,Puntarenas,Arancibia,6,601,44.859999999999999,Pacífico Central,4.333333492280001,Puntarenas Montes de Oro
+"160105",21203,Alajuela,Sarchí,Toro Amarillo,2,212,91.129999999999995,Central,4.000000000000000,Alajuela Poás Grecia Valverde Vega
+"160105",60402,Puntarenas,Montes de Oro,La Unión,6,604,78.930000000000007,Pacífico Central,4.333333492280001,Puntarenas Montes de Oro
+"160105",50305,Guanacaste,Santa Cruz,Cartagena,5,503,72.900000000000006,Chorotega,4.333333492280001,Santa Cruz Carrillo
+"160105",40105,Heredia,Heredia,Varablanca,4,401,258.170000000000016,Central,5.000000000000000,Barva Santa Bárbara San Isidro San Rafael Santo Domingo Varablanca
+"160105",70202,Limón,Pococí,Jiménez,7,702,108.230000000000004,Huetar Caribe,3.666666746140000,Pococí
+"160105",70207,Limón,Pococí,La Colonia,7,702,38.789999999999999,Huetar Caribe,0.000000000000000,Pococí
+"160105",21003,Alajuela,San Carlos,Buenavista,2,210,25.969999999999999,Huetar Norte,3.666666746140000,San Carlos Peñas Blancas Río Cuarto
+"160105",70201,Limón,Pococí,Guápiles,7,702,221.740000000000009,Huetar Caribe,4.333333492280001,Pococí
+"160105",20214,Alajuela,San Ramón,San Lorenzo,2,202,304.740000000000009,Central,0.000000000000000,San Carlos Peñas Blancas Río Cuarto
+"160105",21008,Alajuela,San Carlos,La Tigra,2,210,56.210000000000001,Huetar Norte,4.000000000000000,San Carlos Peñas Blancas Río Cuarto
+"160105",20114,Alajuela,Alajuela,Sarapiquí,2,201,113.790000000000006,Huetar Norte,4.000000000000000,Sarapiquí
+"160105",21005,Alajuela,San Carlos,Venecia,2,210,132.530000000000001,Huetar Norte,4.000000000000000,San Carlos Peñas Blancas Río Cuarto
+"160105",21001,Alajuela,San Carlos,Quesada,2,210,143.479999999999990,Huetar Norte,3.333333253860000,San Carlos Peñas Blancas Río Cuarto
+"160105",50308,Guanacaste,Santa Cruz,Cabo Velas,5,503,73.700000000000003,Chorotega,4.333333492280001,Santa Cruz Carrillo
+"160105",20213,Alajuela,San Ramón,Peñas Blancas,2,202,246.800000000000011,Huetar Norte,4.666666507720000,San Carlos Peñas Blancas Río Cuarto
+"160105",41003,Heredia,Sarapiquí,Las Horquetas,4,410,564.590000000000032,Huetar Norte,3.666666746140000,Sarapiquí
+"160105",21002,Alajuela,San Carlos,Florencia,2,210,199.659999999999997,Huetar Norte,3.333333253860000,San Carlos Peñas Blancas Río Cuarto
+"160105",21009,Alajuela,San Carlos,La Palmera,2,210,100.359999999999999,Huetar Norte,3.666666746140000,San Carlos Peñas Blancas Río Cuarto
+"160105",21004,Alajuela,San Carlos,Aguas Zarcas,2,210,185.699999999999989,Huetar Norte,3.666666746140000,San Carlos Peñas Blancas Río Cuarto
+"160105",41002,Heredia,Sarapiquí,La Virgen,4,410,514.190000000000055,Huetar Norte,4.666666507720000,Sarapiquí
+"160105",20303,Alajuela,Grecia,San José,2,203,12.410000000000000,Central,2.666666746140000,Alajuela Poás Grecia Valverde Vega
+"160105",20208,Alajuela,San Ramón,Ángeles,2,202,84.909999999999997,Central,4.333333492280001,Atenas Palmares Naranjo San Ramón Zarcero
+"160105",21601,Alajuela,Río Cuarto,Río Cuarto,2,216,97.620000000000005,Huetar Norte,0.000000000000000,San Carlos Peñas Blancas Río Cuarto
+"160105",21007,Alajuela,San Carlos,La Fortuna,2,210,229.590000000000003,Huetar Norte,4.000000000000000,San Carlos Peñas Blancas Río Cuarto
+"160105",50805,Guanacaste,Tilarán,Líbano,5,508,72.129999999999995,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",21603,Alajuela,Río Cuarto,Santa Isabel,2,216,104.090000000000003,Huetar Norte,0.000000000000000,San Carlos Peñas Blancas Río Cuarto
+"160105",21012,Alajuela,San Carlos,Monterrey,2,210,220.590000000000003,Huetar Norte,4.333333492280001,San Carlos Peñas Blancas Río Cuarto
+"160105",41001,Heredia,Sarapiquí,Puerto Viejo,4,410,428.519999999999982,Huetar Norte,4.000000000000000,Sarapiquí
+"160105",41004,Heredia,Sarapiquí,Llanuras del Gaspar,4,410,267.220000000000027,Huetar Norte,5.333333492280000,Sarapiquí
+"160105",21006,Alajuela,San Carlos,Pital,2,210,379.269999999999982,Huetar Norte,4.000000000000000,San Carlos Peñas Blancas Río Cuarto
+"160105",41005,Heredia,Sarapiquí,Cureña,4,410,369.699999999999989,Huetar Norte,5.333333492280000,Sarapiquí
+"160105",21404,Alajuela,Los Chiles,San Jorge,2,214,214.949999999999989,Huetar Norte,4.333333492280001,Guatuso Upala Los Chiles
+"160105",21011,Alajuela,San Carlos,Cutris,2,210,849.100000000000023,Huetar Norte,4.666666507720000,San Carlos Peñas Blancas Río Cuarto
+"160105",21403,Alajuela,Los Chiles,El Amparo,2,214,312.889999999999986,Huetar Norte,4.333333492280001,Guatuso Upala Los Chiles
+"160105",21013,Alajuela,San Carlos,Pocosol,2,210,660.490000000000009,Huetar Norte,4.000000000000000,San Carlos Peñas Blancas Río Cuarto
+"160105",50501,Guanacaste,Carrillo,Filadelfia,5,505,125.239999999999995,Chorotega,4.333333492280001,Santa Cruz Carrillo
+"160105",21401,Alajuela,Los Chiles,Los Chiles,2,214,503.600000000000023,Huetar Norte,3.666666746140000,Guatuso Upala Los Chiles
+"160105",21602,Alajuela,Río Cuarto,Santa Rita,2,216,53.189999999999998,Huetar Norte,0.000000000000000,San Carlos Peñas Blancas Río Cuarto
+"160105",30510,Cartago,Turrialba,Tres Equis,3,305,36.950000000000003,Central,4.000000000000000,Turrialba Jiménez
+"160105",70103,Limón,Limón,Río Blanco,7,701,131.310000000000002,Huetar Caribe,4.333333492280001,Limón Matina
+"160105",70101,Limón,Limón,Limón,7,701,59.180000000000000,Huetar Caribe,2.333333253860000,Limón Matina
+"160105",70503,Limón,Matina,Carrandí,7,705,205.539999999999992,Huetar Caribe,4.333333492280001,Limón Matina
+"160105",70306,Limón,Siquirres,Alegría,7,703,38.049999999999997,Huetar Caribe,3.666666746140000,Siquirres Guácimo
+"160105",70304,Limón,Siquirres,Germania,7,703,33.960000000000001,Huetar Caribe,4.333333492280001,Siquirres Guácimo
+"160105",70302,Limón,Siquirres,Pacuarito,7,703,220.020000000000010,Huetar Caribe,4.666666507720000,Siquirres Guácimo
+"160105",70305,Limón,Siquirres,El Cairo,7,703,106.959999999999994,Huetar Caribe,4.333333492280001,Siquirres Guácimo
+"160105",60105,Puntarenas,Puntarenas,Paquera,6,601,335.629999999999995,Pacífico Central,4.666666507720000,Paquera Cóbano Lepanto Chira
+"160105",50504,Guanacaste,Carrillo,Belén,5,505,182.139999999999986,Chorotega,4.333333492280001,Santa Cruz Carrillo
+"160105",70307,Limón,Siquirres,Reventazón,7,703,190.009999999999991,Huetar Caribe,0.000000000000000,Siquirres Guácimo
+"160105",70502,Limón,Matina,Batán,7,705,213.409999999999997,Huetar Caribe,4.000000000000000,Limón Matina
+"160105",70301,Limón,Siquirres,Siquirres,7,703,184.210000000000008,Huetar Caribe,4.000000000000000,Siquirres Guácimo
+"160105",61004,Puntarenas,Corredores,Laurel,6,610,188.849999999999994,Brunca,4.000000000000000,Osa Corredores Golfito
+"160105",60704,Puntarenas,Golfito,Pavón,6,607,353.319999999999993,Brunca,4.666666507720000,Osa Corredores Golfito
+"160105",60101,Puntarenas,Puntarenas,Puntarenas,6,601,34.030000000000001,Pacífico Central,3.333333253860000,Puntarenas Montes de Oro
+"160105",60102,Puntarenas,Puntarenas,Pitahaya,6,601,109.549999999999997,Pacífico Central,4.000000000000000,Puntarenas Montes de Oro
+"160105",60114,Puntarenas,Puntarenas,Acapulco,6,601,110.909999999999997,Pacífico Central,3.666666746140000,Puntarenas Montes de Oro
+"160105",60107,Puntarenas,Puntarenas,Guacimal,6,601,114.939999999999998,Pacífico Central,4.333333492280001,Puntarenas Montes de Oro
+"160105",61201,Puntarenas,Monteverde,Monteverde,6,612,53.469999999999999,Pacífico Central,0.000000000000000,Puntarenas Montes de Oro
+"160105",50304,Guanacaste,Santa Cruz,Tempate,5,503,139.689999999999998,Chorotega,4.666666507720000,Santa Cruz Carrillo
+"160105",50702,Guanacaste,Abangares,Sierra,5,507,112.000000000000000,Chorotega,4.000000000000000,Abangares Cañas Bagaces Tilarán
+"160105",50808,Guanacaste,Tilarán,Cabeceras,5,508,50.930000000000000,Chorotega,0.000000000000000,Abangares Cañas Bagaces Tilarán
+"160105",50803,Guanacaste,Tilarán,Tronadora,5,508,139.930000000000007,Chorotega,4.666666507720000,Abangares Cañas Bagaces Tilarán
+"160105",50801,Guanacaste,Tilarán,Tilarán,5,508,144.750000000000000,Chorotega,3.666666746140000,Abangares Cañas Bagaces Tilarán
+"160105",50807,Guanacaste,Tilarán,Arenal,5,508,72.670000000000002,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",21010,Alajuela,San Carlos,Venado,2,210,169.189999999999998,Huetar Norte,4.333333492280001,San Carlos Peñas Blancas Río Cuarto
+"160105",21503,Alajuela,Guatuso,Cote,2,215,183.580000000000013,Huetar Norte,4.666666507720000,Guatuso Upala Los Chiles
+"160105",21501,Alajuela,Guatuso,San Rafael,2,215,303.990000000000009,Huetar Norte,4.333333492280001,Guatuso Upala Los Chiles
+"160105",21502,Alajuela,Guatuso,Buenavista,2,215,150.860000000000014,Huetar Norte,4.333333492280001,Guatuso Upala Los Chiles
+"160105",21402,Alajuela,Los Chiles,Caño Negro,2,214,301.269999999999982,Huetar Norte,4.333333492280001,Guatuso Upala Los Chiles
+"160105",50601,Guanacaste,Cañas,Cañas,5,506,193.090000000000003,Chorotega,4.000000000000000,Abangares Cañas Bagaces Tilarán
+"160105",61301,Puntarenas,Puerto Jiménez,Puerto Jiménez,6,613,720.429999999999950,Brunca,0.000000000000000,Península de Osa
+"160105",60506,Puntarenas,Osa,Bahía Drake,6,605,392.410000000000025,Brunca,0.000000000000000,Península de Osa
+"160105",60503,Puntarenas,Osa,Sierpe,6,605,634.179999999999950,Brunca,5.000000000000000,Península de Osa
+"160105",60501,Puntarenas,Osa,Puerto Cortés,6,605,234.389999999999986,Brunca,3.000000000000000,Osa Corredores Golfito
+"160105",11907,San José,Pérez Zeledón,Pejibaye,1,119,141.180000000000007,Brunca,4.000000000000000,Pérez Zeledón
+"160105",11906,San José,Pérez Zeledón,Platanares,1,119,80.920000000000002,Brunca,4.000000000000000,Pérez Zeledón
+"160105",11903,San José,Pérez Zeledón,Daniel Flores,1,119,64.060000000000002,Brunca,1.666666626930000,Pérez Zeledón
+"160105",11902,San José,Pérez Zeledón,El General,1,119,76.879999999999995,Brunca,3.666666746140000,Pérez Zeledón
+"160105",11904,San José,Pérez Zeledón,Rivas,1,119,310.000000000000000,Brunca,4.333333492280001,Pérez Zeledón
+"160105",30203,Cartago,Paraíso,Orosi,3,302,376.540000000000020,Central,4.666666507720000,Paraíso Alvarado
+"160105",50804,Guanacaste,Tilarán,Santa Rosa,5,508,71.060000000000002,Chorotega,4.000000000000000,Abangares Cañas Bagaces Tilarán
+"160105",30403,Cartago,Jiménez,Pejibaye,3,304,173.199999999999989,Central,3.666666746140000,Turrialba Jiménez
+"160105",30101,Cartago,Cartago,Oriental,3,301,2.040000000000000,Central,1.333333373070000,Cartago Oreamuno El Guarco La Unión
+"160105",10607,San José,Aserrí,Salitrillos,1,106,14.340000000000000,Central,2.000000000000000,GAM Urbano
+"160105",30102,Cartago,Cartago,Occidental,3,301,2.010000000000000,Central,1.666666626930000,Cartago Oreamuno El Guarco La Unión
+"160105",10601,San José,Aserrí,Aserrí,1,106,15.260000000000000,Central,2.000000000000000,GAM Urbano
+"160105",30402,Cartago,Jiménez,Tucurrique,3,304,33.500000000000000,Central,3.333333253860000,Turrialba Jiménez
+"160105",30204,Cartago,Paraíso,Cachí,3,302,41.109999999999999,Central,3.666666746140000,Paraíso Alvarado
+"160105",11604,San José,Turrubares,San Luis,1,116,43.840000000000003,Central,4.333333492280001,Puriscal Turrubares Mora Santa Ana
+"160105",10702,San José,Mora,Guayabo,1,107,9.010000000000000,Central,2.666666746140000,Puriscal Turrubares Mora Santa Ana
+"160105",10403,San José,Puriscal,Barbacoas,1,104,18.620000000000001,Central,3.333333253860000,Puriscal Turrubares Mora Santa Ana
+"160105",50502,Guanacaste,Carrillo,Palmira,5,505,31.460000000000001,Chorotega,3.000000000000000,Santa Cruz Carrillo
+"160105",10313,San José,Desamparados,Los Guido,1,103,3.060000000000000,Central,1.000000000000000,GAM Urbano
+"160105",10401,San José,Puriscal,Santiago,1,104,34.520000000000003,Central,3.333333253860000,Puriscal Turrubares Mora Santa Ana
+"160105",30106,Cartago,Cartago,Guadalupe o Arenilla,3,301,13.160000000000000,Central,1.333333373070000,Cartago Oreamuno El Guarco La Unión
+"160105",30111,Cartago,Cartago,Quebradilla,3,301,19.149999999999999,Central,2.666666746140000,Cartago Oreamuno El Guarco La Unión
+"160105",10706,San José,Mora,Jaris,1,107,5.490000000000000,Central,0.000000000000000,Puriscal Turrubares Mora Santa Ana
+"160105",10307,San José,Desamparados,Patarra,1,103,15.880000000000001,Central,2.333333253860000,GAM Urbano
+"160105",10302,San José,Desamparados,San Miguel,1,103,21.340000000000000,Central,2.000000000000000,GAM Urbano
+"160105",10703,San José,Mora,Tabarcia,1,107,40.430000000000000,Central,3.333333253860000,Puriscal Turrubares Mora Santa Ana
+"160105",10408,San José,Puriscal,San Antonio,1,104,14.619999999999999,Central,2.666666746140000,Puriscal Turrubares Mora Santa Ana
+"160105",30701,Cartago,Oreamuno,San Rafael,3,307,10.279999999999999,Central,1.000000000000000,Cartago Oreamuno El Guarco La Unión
+"160105",50503,Guanacaste,Carrillo,Sardinal,5,505,260.170000000000016,Chorotega,4.000000000000000,Santa Cruz Carrillo
+"160105",10304,San José,Desamparados,San Rafael Arriba,1,103,3.230000000000000,Central,1.000000000000000,GAM Urbano
+"160105",11603,San José,Turrubares,San Juan de Mata,1,116,86.250000000000000,Central,4.000000000000000,Puriscal Turrubares Mora Santa Ana
+"160105",11003,San José,Alajuelita,San Antonio,1,110,10.260000000000000,Central,2.333333253860000,Puriscal Turrubares Mora Santa Ana
+"160105",10407,San José,Puriscal,Desamparaditos,1,104,7.220000000000000,Central,3.000000000000000,Puriscal Turrubares Mora Santa Ana
+"160105",11602,San José,Turrubares,San Pedro,1,116,39.200000000000003,Central,4.333333492280001,Puriscal Turrubares Mora Santa Ana
+"160105",30202,Cartago,Paraíso,Santiago,3,302,25.640000000000001,Central,4.000000000000000,Paraíso Alvarado
+"160105",20904,Alajuela,Orotina,Coyolar,2,209,36.479999999999997,Pacífico Central,3.333333253860000,Orotina San Mateo Esparza
+"160105",10404,San José,Puriscal,Grifo Alto,1,104,26.399999999999999,Central,4.000000000000000,Puriscal Turrubares Mora Santa Ana
+"160105",30702,Cartago,Oreamuno,Cot,3,307,14.859999999999999,Central,2.666666746140000,Cartago Oreamuno El Guarco La Unión
+"160105",10202,San José,Escazú,San Antonio,1,102,16.960000000000001,Central,1.333333373070000,Puriscal Turrubares Mora Santa Ana
+"160105",50401,Guanacaste,Bagaces,Bagaces,5,504,889.070000000000050,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",10902,San José,Santa Ana,Salitral,1,109,20.289999999999999,Central,2.666666746140000,Puriscal Turrubares Mora Santa Ana
+"160105",30104,Cartago,Cartago,San Nicolás,3,301,29.230000000000000,Central,1.333333373070000,Cartago Oreamuno El Guarco La Unión
+"160105",30502,Cartago,Turrialba,La Suiza,3,305,160.930000000000007,Central,4.333333492280001,Turrialba Jiménez
+"160105",30501,Cartago,Turrialba,Turrialba,3,305,56.630000000000003,Central,1.666666626930000,Turrialba Jiménez
+"160105",20905,Alajuela,Orotina,La Ceiba,2,209,60.659999999999997,Pacífico Central,4.000000000000000,Orotina San Mateo Esparza
+"160105",30401,Cartago,Jiménez,Juan Viñas,3,304,28.250000000000000,Central,3.333333253860000,Turrialba Jiménez
+"160105",60206,Puntarenas,Esparza,Caldera,6,602,62.020000000000003,Pacífico Central,0.000000000000000,Orotina San Mateo Esparza
+"160105",60504,Puntarenas,Osa,Bahía Ballena,6,605,158.330000000000013,Brunca,4.000000000000000,Osa Corredores Golfito
+"160105",10707,San José,Mora,Quitirrisí,1,107,26.620000000000001,Central,0.000000000000000,Puriscal Turrubares Mora Santa Ana
+"160105",30206,Cartago,Paraíso,Birrisito,3,302,8.880000000000004,Central,0.000000000000000,Paraíso Alvarado
+"160105",50806,Guanacaste,Tilarán,Tierras Morenas,5,508,83.319999999999993,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",61103,Puntarenas,Garabito,Lagunillas,6,611,81.000000000000000,Pacífico Central,0.000000000000000,Quepos Garabito Parrita
+"160105",30508,Cartago,Turrialba,Tayutic,3,305,74.769999999999996,Central,3.666666746140000,Turrialba Jiménez
+"160105",70102,Limón,Limón,Valle La Estrella,7,701,1238.420000000000073,Huetar Caribe,5.000000000000000,Talamanca Valle de la Estrella
+"160105",30507,Cartago,Turrialba,Tuis,3,305,39.200000000000003,Central,4.000000000000000,Turrialba Jiménez
+"160105",70104,Limón,Limón,Matama,7,701,340.470000000000027,Huetar Caribe,5.000000000000000,Limón Matina
+"160105",70501,Limón,Matina,Matina,7,705,351.449999999999989,Huetar Caribe,5.000000000000000,Limón Matina
+"160105",30512,Cartago,Turrialba,Chirripó,3,305,940.899999999999977,Central,5.000000000000000,Turrialba Jiménez
+"160105",30511,Cartago,Turrialba,La Isabel,3,305,19.789999999999999,Central,3.000000000000000,Turrialba Jiménez
+"160105",30506,Cartago,Turrialba,Pavones,3,305,42.049999999999997,Central,3.333333253860000,Turrialba Jiménez
+"160105",30503,Cartago,Turrialba,Peralta,3,305,9.690000000000000,Central,3.666666746140000,Turrialba Jiménez
+"160105",50602,Guanacaste,Cañas,Palmira,5,506,204.030000000000001,Chorotega,4.666666507720000,Abangares Cañas Bagaces Tilarán
+"160105",30505,Cartago,Turrialba,Santa Teresita,3,305,60.140000000000001,Central,3.666666746140000,Turrialba Jiménez
+"160105",70303,Limón,Siquirres,Florida,7,703,81.930000000000007,Huetar Caribe,4.000000000000000,Siquirres Guácimo
+"160105",70602,Limón,Guácimo,Mercedes,7,706,90.060000000000002,Huetar Caribe,3.666666746140000,Siquirres Guácimo
+"160105",70603,Limón,Guácimo,Pocora,7,706,72.879999999999995,Huetar Caribe,3.666666746140000,Siquirres Guácimo
+"160105",70601,Limón,Guácimo,Guácimo,7,706,223.789999999999992,Huetar Caribe,3.333333253860000,Siquirres Guácimo
+"160105",70604,Limón,Guácimo,Río Jiménez,7,706,333.709999999999980,Huetar Caribe,4.333333492280001,Siquirres Guácimo
+"160105",70605,Limón,Guácimo,Duacarí,7,706,81.120000000000005,Huetar Caribe,4.000000000000000,Siquirres Guácimo
+"160105",70204,Limón,Pococí,Roxana,7,702,166.210000000000008,Huetar Caribe,3.666666746140000,Pococí
+"160105",70205,Limón,Pococí,Cariari,7,702,201.030000000000001,Huetar Caribe,4.000000000000000,Pococí
+"160105",70203,Limón,Pococí,Rita,7,702,503.740000000000009,Huetar Caribe,3.666666746140000,Pococí
+"160105",50404,Guanacaste,Bagaces,Río Naranjo,5,504,43.619999999999997,Chorotega,4.000000000000000,Abangares Cañas Bagaces Tilarán
+"160105",70206,Limón,Pococí,Colorado,7,702,948.429999999999950,Huetar Caribe,5.333333492280000,Pococí
+"160105",30404,Cartago,Jiménez,La Victoria,3,304,15.119999999999999,Central,0.000000000000000,Turrialba Jiménez
+"160105",60111,Puntarenas,Puntarenas,Cóbano,6,601,319.269999999999982,Pacífico Central,4.666666507720000,Paquera Cóbano Lepanto Chira
+"160105",50402,Guanacaste,Bagaces,La Fortuna,5,504,163.469999999999999,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",50403,Guanacaste,Bagaces,Mogote,5,504,181.770000000000010,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",50101,Guanacaste,Liberia,Liberia,5,501,563.019999999999982,Chorotega,3.333333253860000,Liberia La Cruz
+"160105",21304,Alajuela,Upala,Bijagua,2,213,186.800000000000011,Huetar Norte,4.000000000000000,Guatuso Upala Los Chiles
+"160105",21504,Alajuela,Guatuso,Katira,2,215,114.400000000000006,Huetar Norte,4.000000000000000,Guatuso Upala Los Chiles
+"160105",50105,Guanacaste,Liberia,Curubandé,5,501,81.319999999999993,Chorotega,3.666666746140000,Liberia La Cruz
+"160105",50102,Guanacaste,Liberia,Cañas Dulces,5,501,243.409999999999997,Chorotega,4.333333492280001,Liberia La Cruz
+"160105",50104,Guanacaste,Liberia,Nacascolo,5,501,326.910000000000025,Chorotega,4.000000000000000,Liberia La Cruz
+"160105",21308,Alajuela,Upala,Canalete,2,213,106.450000000000003,Huetar Norte,0.000000000000000,Guatuso Upala Los Chiles
+"160105",21301,Alajuela,Upala,Upala,2,213,148.650000000000006,Huetar Norte,3.333333253860000,Guatuso Upala Los Chiles
+"160105",50906,Guanacaste,Nandayure,Bejuco,5,509,261.779999999999973,Chorotega,4.666666507720000,Nandayure Hojancha Nicoya
+"160105",50103,Guanacaste,Liberia,Mayorga,5,501,227.509999999999991,Chorotega,4.000000000000000,Liberia La Cruz
+"160105",21307,Alajuela,Upala,Yolillal,2,213,139.620000000000005,Huetar Norte,3.666666746140000,Guatuso Upala Los Chiles
+"160105",21302,Alajuela,Upala,Aguas Claras,2,213,408.540000000000020,Huetar Norte,4.333333492280001,Guatuso Upala Los Chiles
+"160105",51004,Guanacaste,La Cruz,Santa Elena,5,510,509.589999999999975,Chorotega,5.333333492280000,Liberia La Cruz
+"160105",21305,Alajuela,Upala,Delicias,2,213,98.519999999999996,Huetar Norte,3.666666746140000,Guatuso Upala Los Chiles
+"160105",21306,Alajuela,Upala,Dos Ríos,2,213,218.669999999999987,Huetar Norte,4.666666507720000,Guatuso Upala Los Chiles
+"160105",21303,Alajuela,Upala,San José O Pizote,2,213,285.430000000000007,Huetar Norte,4.000000000000000,Guatuso Upala Los Chiles
+"160105",51002,Guanacaste,La Cruz,Santa Cecilia,5,510,258.009999999999991,Chorotega,4.666666507720000,Liberia La Cruz
+"160105",51003,Guanacaste,La Cruz,La Garita,5,510,273.389999999999986,Chorotega,4.666666507720000,Liberia La Cruz
+"160105",51001,Guanacaste,La Cruz,La Cruz,5,510,344.410000000000025,Chorotega,5.333333492280000,Liberia La Cruz
+"160105",50205,Guanacaste,Nicoya,Sámara,5,502,109.359999999999999,Chorotega,4.333333492280001,Nandayure Hojancha Nicoya
+"160105",50301,Guanacaste,Santa Cruz,Santa Cruz,5,503,288.920000000000016,Chorotega,3.666666746140000,Santa Cruz Carrillo
+"160105",51105,Guanacaste,Hojancha,Matambú,5,511,8.710000000000004,Chorotega,0.000000000000000,Nandayure Hojancha Nicoya
+"160105",50802,Guanacaste,Tilarán,Quebrada Grande,5,508,34.450000000000003,Chorotega,4.333333492280001,Abangares Cañas Bagaces Tilarán
+"160105",11909,San José,Pérez Zeledón,Barú,1,119,189.659999999999997,Brunca,4.000000000000000,Pérez Zeledón
+"160105",60602,Puntarenas,Quepos,Savegre,6,606,216.469999999999999,Pacífico Central,4.000000000000000,Quepos Garabito Parrita
+"160105",11901,San José,Pérez Zeledón,San Isidro de El General,1,119,191.819999999999993,Brunca,1.666666626930000,Pérez Zeledón
+"160105",11910,San José,Pérez Zeledón,Río Nuevo,1,119,242.189999999999998,Brunca,4.000000000000000,Pérez Zeledón
+"160105",60603,Puntarenas,Quepos,Naranjito,6,606,105.329999999999998,Pacífico Central,3.666666746140000,Quepos Garabito Parrita
+"160105",11911,San José,Pérez Zeledón,Paramo,1,119,203.330000000000013,Brunca,4.333333492280001,Pérez Zeledón
+"160105",60901,Puntarenas,Parrita,Parrita,6,609,483.220000000000027,Pacífico Central,4.000000000000000,Quepos Garabito Parrita
+"160105",50905,Guanacaste,Nandayure,Porvenir,5,509,40.149999999999999,Chorotega,4.333333492280001,Nandayure Hojancha Nicoya
+"160105",10502,San José,Tarrazú,San Lorenzo,1,105,186.289999999999992,Central,4.333333492280001,Dota Tarrazú León Cortés
+"160105",10503,San José,Tarrazú,San Carlos,1,105,58.960000000000001,Central,4.000000000000000,Dota Tarrazú León Cortés
+"160105",11703,San José,Dota,Copey,1,117,277.579999999999984,Central,5.000000000000000,Dota Tarrazú León Cortés
+"160105",11701,San José,Dota,Santa María,1,117,93.599999999999994,Central,4.333333492280001,Dota Tarrazú León Cortés
+"160105",61101,Puntarenas,Garabito,Jacó,6,611,141.370000000000005,Pacífico Central,4.666666507720000,Quepos Garabito Parrita
+"160105",12004,San José,León Cortés Castro,San Isidro,1,120,19.020000000000000,Central,4.333333492280001,Dota Tarrazú León Cortés
+"160105",12001,San José,León Cortés Castro,San Pablo,1,120,20.760000000000002,Central,3.333333253860000,Dota Tarrazú León Cortés
+"160105",12003,San José,León Cortés Castro,Llano Bonito,1,120,34.100000000000001,Central,4.333333492280001,Dota Tarrazú León Cortés
+"160105",10501,San José,Tarrazú,San Marcos,1,105,46.020000000000003,Central,3.666666746140000,Dota Tarrazú León Cortés
+"160105",11702,San José,Dota,Jardín,1,117,33.270000000000003,Central,4.000000000000000,Dota Tarrazú León Cortés
+"160105",51103,Guanacaste,Hojancha,Puerto Carrillo,5,511,76.870000000000005,Chorotega,4.333333492280001,Nandayure Hojancha Nicoya
+"160105",12005,San José,León Cortés Castro,Santa Cruz,1,120,21.780000000000001,Central,3.666666746140000,Dota Tarrazú León Cortés
+"160105",12006,San José,León Cortés Castro,San Antonio,1,120,10.140000000000001,Central,4.000000000000000,Dota Tarrazú León Cortés
+"160105",10409,San José,Puriscal,Chires,1,104,229.659999999999997,Central,4.666666507720000,Puriscal Turrubares Mora Santa Ana
+"160105",12002,San José,León Cortés Castro,San Andrés,1,120,16.100000000000001,Central,4.000000000000000,Dota Tarrazú León Cortés
+"160105",10605,San José,Aserrí,Legua,1,106,81.260000000000005,Central,4.000000000000000,Acosta Desamparados Aserrí
+"160105",10606,San José,Aserrí,Monterrey,1,106,8.279999999999999,Central,4.000000000000000,Acosta Desamparados Aserrí
+"160105",10306,San José,Desamparados,Frailes,1,103,19.670000000000002,Central,3.333333253860000,Acosta Desamparados Aserrí
+"160105",11205,San José,Acosta,Sabanillas,1,112,177.360000000000014,Central,4.666666507720000,Acosta Desamparados Aserrí
+"160105",11204,San José,Acosta,Cangrejal,1,112,64.329999999999998,Central,4.333333492280001,Acosta Desamparados Aserrí
+"160105",10308,San José,Desamparados,San Cristobal,1,103,25.030000000000001,Central,3.333333253860000,Acosta Desamparados Aserrí
